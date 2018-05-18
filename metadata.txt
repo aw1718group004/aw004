@@ -1,0 +1,2046 @@
+disease:Cancer
+name:Frederick Miller
+deathdate:1888-05-11
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Cancer?oldid=744228426
+field:Oncology
+disease:Stroke
+name:John Albert Morris
+deathdate:1895-05-25
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Meningitis
+name:Ram Mohan Roy
+deathdate:1833-09-27
+deathplace:England
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Neurology
+disease:Meningitis
+name:Ram Mohan Roy
+deathdate:1833-09-27
+deathplace:England
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Infectious disease (medical specialty)
+disease:Suicide
+name:Augustus Matthiessen
+deathdate:1870-10-06
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Sepsis
+name:Abraham Lincoln II
+deathdate:1890-03-05
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Sepsis?oldid=740639600
+field:Infectious disease (medical specialty)
+disease:Dysentery
+name:Edmund Roberts (diplomat)
+deathdate:1836-06-12
+deathplace:Macau
+wiki:http://en.wikipedia.org/wiki/Dysentery?oldid=743596181
+field:Infectious disease (medical specialty)
+disease:Edema
+name:Rosalie Stier Calvert
+deathdate:1821-03-13
+deathplace:Maryland
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Cardiology
+disease:Edema
+name:Rosalie Stier Calvert
+deathdate:1821-03-13
+deathplace:Maryland
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Nephrology
+disease:Jaundice
+name:John Colter
+deathdate:1812-05-07
+deathplace:Missouri
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:Gastroenterology
+disease:Jaundice
+name:John Colter
+deathdate:1812-05-07
+deathplace:Missouri
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:General surgery
+disease:Aneurysm
+name:Allan Kardec
+deathdate:1869-03-31
+deathplace:Paris
+wiki:http://en.wikipedia.org/wiki/Aneurysm?oldid=744695108
+field:Vascular surgery
+disease:Cholera
+name:Sextus Barbour
+deathdate:1848-12-20
+deathplace:St. Louis
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Mortimer Grimshaw
+deathdate:1869-12-22
+deathplace:Rishton
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Mortimer Grimshaw
+deathdate:1869-12-22
+deathplace:Rishton
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Meningitis
+name:Ram Mohan Roy
+deathdate:1833-09-27
+deathplace:Bristol
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Neurology
+disease:Meningitis
+name:Ram Mohan Roy
+deathdate:1833-09-27
+deathplace:Bristol
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Infectious disease (medical specialty)
+disease:Ascites
+name:William Cotton (missionary)
+deathdate:1879-06-22
+deathplace:Chiswick
+wiki:http://en.wikipedia.org/wiki/Ascites?oldid=742847237
+field:Gastroenterology
+disease:Peritonitis
+name:James Craig Watson
+deathdate:1880-11-23
+deathplace:Madison, Wisconsin
+wiki:http://en.wikipedia.org/wiki/Peritonitis?oldid=741628397
+field:General surgery
+disease:Peritonitis
+name:James Craig Watson
+deathdate:1880-11-22
+deathplace:Madison, Wisconsin
+wiki:http://en.wikipedia.org/wiki/Peritonitis?oldid=741628397
+field:General surgery
+disease:Cancer
+name:Frederick Miller
+deathdate:1888-05-11
+deathplace:Milwaukee
+wiki:http://en.wikipedia.org/wiki/Cancer?oldid=744228426
+field:Oncology
+disease:Tuberculosis
+name:Ivory Quinby
+deathdate:1869-10-23
+deathplace:Monmouth, Illinois
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Ivory Quinby
+deathdate:1869-10-23
+deathplace:Monmouth, Illinois
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Laura Keene
+deathdate:1873-11-04
+deathplace:Montclair, New Jersey
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Laura Keene
+deathdate:1873-11-04
+deathplace:Montclair, New Jersey
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Edema
+name:Rosalie Stier Calvert
+deathdate:1821-03-13
+deathplace:Riverdale Park, Maryland
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Cardiology
+disease:Edema
+name:Rosalie Stier Calvert
+deathdate:1821-03-13
+deathplace:Riverdale Park, Maryland
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Nephrology
+disease:Diphtheria
+name:Lydia Becker
+deathdate:1890-07-18
+deathplace:Savoie
+wiki:http://en.wikipedia.org/wiki/Diphtheria?oldid=745014521
+field:Infectious disease
+disease:Diphtheria
+name:Lydia Becker
+deathdate:1890-07-18
+deathplace:Aix-les-Bains
+wiki:http://en.wikipedia.org/wiki/Diphtheria?oldid=745014521
+field:Infectious disease
+disease:Stroke
+name:Elizabeth Fry
+deathdate:1845-10-12
+deathplace:Ramsgate
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Typhus
+name:Allegra Byron
+deathdate:1822-04-20
+deathplace:Bagnacavallo
+wiki:http://en.wikipedia.org/wiki/Typhus?oldid=743595830
+field:Infectious disease
+disease:Malaria
+name:Allegra Byron
+deathdate:1822-04-20
+deathplace:Bagnacavallo
+wiki:http://en.wikipedia.org/wiki/Malaria?oldid=740143214
+field:Infectious disease (medical specialty)
+disease:Stroke
+name:John Albert Morris
+deathdate:1895-05-25
+deathplace:Kerrville, Texas
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Cancer
+name:Frederick Miller
+deathdate:1888-05-11
+deathplace:Wisconsin
+wiki:http://en.wikipedia.org/wiki/Cancer?oldid=744228426
+field:Oncology
+disease:Meningitis
+name:Ram Mohan Roy
+deathdate:1833-09-27
+deathplace:Stapleton, Bristol
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Neurology
+disease:Meningitis
+name:Ram Mohan Roy
+deathdate:1833-09-27
+deathplace:Stapleton, Bristol
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Infectious disease (medical specialty)
+disease:Systemic lupus erythematosus
+name:James Norton (solicitor)
+deathdate:1862-08-31
+deathplace:Municipality of Leichhardt
+wiki:http://en.wikipedia.org/wiki/Systemic_lupus_erythematosus?oldid=742140291
+field:Rheumatology
+disease:Rheumatism
+name:Henry Hughes (sociologist)
+deathdate:1862-10-03
+deathplace:Mississippi
+wiki:http://en.wikipedia.org/wiki/Rheumatism?oldid=744598313
+field:Rheumatology
+disease:Pernicious anemia
+name:Frances Willard (suffragist)
+deathdate:1898-02-17
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pernicious_anemia?oldid=744090411
+field:Hematology
+disease:Influenza
+name:Frances Willard (suffragist)
+deathdate:1898-02-17
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Influenza?oldid=744866303
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Christopher Drumgoole
+deathdate:1888-03-28
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Yellow fever
+name:George E. Waring, Jr.
+deathdate:1898-10-29
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Yellow_fever?oldid=745252278
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Christopher Drumgoole
+deathdate:1888-03-28
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Sepsis
+name:Abraham Lincoln II
+deathdate:1890-03-05
+deathplace:United Kingdom of Great Britain and Ireland
+wiki:http://en.wikipedia.org/wiki/Sepsis?oldid=740639600
+field:Infectious disease (medical specialty)
+disease:Stroke
+name:William H. Prescott
+deathdate:1859-01-28
+deathplace:Boston, Massachusetts
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Stroke
+name:William H. Prescott
+deathdate:1859-01-28
+deathplace:Boston
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Pneumonia
+name:John Christopher Drumgoole
+deathdate:1888-03-28
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Yellow fever
+name:George E. Waring, Jr.
+deathdate:1898-10-29
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Yellow_fever?oldid=745252278
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Christopher Drumgoole
+deathdate:1888-03-28
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pernicious anemia
+name:Frances Willard (suffragist)
+deathdate:1898-02-17
+deathplace:New York, New York
+wiki:http://en.wikipedia.org/wiki/Pernicious_anemia?oldid=744090411
+field:Hematology
+disease:Influenza
+name:Frances Willard (suffragist)
+deathdate:1898-02-17
+deathplace:New York, New York
+wiki:http://en.wikipedia.org/wiki/Influenza?oldid=744866303
+field:Infectious disease (medical specialty)
+disease:Jaundice
+name:John Colter
+deathdate:1812-05-07
+deathplace:St. Louis, Missouri
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:Gastroenterology
+disease:Jaundice
+name:John Colter
+deathdate:1812-05-07
+deathplace:St. Louis, Missouri
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:General surgery
+disease:Cholera
+name:Sextus Barbour
+deathdate:1848-12-20
+deathplace:St. Louis, Missouri
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Simon McTavish
+deathdate:1804-07-06
+deathplace:Lower Canada
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Simon McTavish
+deathdate:1804-07-06
+deathplace:Lower Canada
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Stroke
+name:General Tom Thumb
+deathdate:1883-07-15
+deathplace:Bridgeport, Connecticut
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Tuberculosis
+name:Sara Forbes Bonetta
+deathdate:1880-08-15
+deathplace:Madeira Island
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Sara Forbes Bonetta
+deathdate:1880-08-15
+deathplace:Madeira Island
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Shanawdithit
+deathdate:1829-06-06
+deathplace:St. John's, Newfoundland
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Shanawdithit
+deathdate:1829-06-06
+deathplace:St. John's, Newfoundland
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Yellow fever
+name:Margaret Lea Houston
+deathdate:1867-12-03
+deathplace:Independence, Texas
+wiki:http://en.wikipedia.org/wiki/Yellow_fever?oldid=745252278
+field:Infectious disease (medical specialty)
+disease:Major trauma
+name:Philip Stanley Abbot
+deathdate:1896-08-03
+deathplace:Lake Louise (Alberta)
+wiki:http://en.wikipedia.org/wiki/Major_trauma?oldid=743708320
+field:Emergency medicine
+disease:Pneumonia
+name:Simon McTavish
+deathdate:1804-07-06
+deathplace:Montreal
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Simon McTavish
+deathdate:1804-07-06
+deathplace:Montreal
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Drowning
+name:Jane Whiteside
+deathdate:1875-01-17
+deathplace:New Zealand
+wiki:http://en.wikipedia.org/wiki/Drowning?oldid=745016369
+field:Critical care medicine
+disease:Suicide
+name:Bernhard Förster
+deathdate:1889-06-03
+deathplace:San Bernardino, Paraguay
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Suicide
+name:Charles Gifkins
+deathdate:1897-01-31
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Pneumonia
+name:Thomas M. Carnegie
+deathdate:1886-10-19
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Kit Burns
+deathdate:1870-12-19
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Francis J. Banfield
+deathdate:1883-03-04
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Henry B Bolster
+deathdate:1859-07-21
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Rheumatism
+name:John H. McCullagh
+deathdate:1893-03-06
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Rheumatism?oldid=744598313
+field:Rheumatology
+disease:Pneumonia
+name:Thomas M. Carnegie
+deathdate:1886-10-19
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Kit Burns
+deathdate:1870-12-19
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Francis J. Banfield
+deathdate:1883-03-04
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Henry B Bolster
+deathdate:1859-07-21
+deathplace:United States
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Typhoid fever
+name:Blasius Kozenn
+deathdate:1871-05-29
+deathplace:Hernals
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Kit Burns
+deathdate:1870-12-19
+deathplace:South Brooklyn
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Kit Burns
+deathdate:1870-12-19
+deathplace:South Brooklyn
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Owen Brown (college founder)
+deathdate:1856-05-08
+deathplace:Connecticut Western Reserve
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Owen Brown (college founder)
+deathdate:1856-05-08
+deathplace:Connecticut Western Reserve
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Major trauma
+name:Philip Stanley Abbot
+deathdate:1896-08-03
+deathplace:Alberta
+wiki:http://en.wikipedia.org/wiki/Major_trauma?oldid=743708320
+field:Emergency medicine
+disease:Smallpox
+name:Edward Augustus Freeman
+deathdate:1892-03-16
+deathplace:Alicante
+wiki:http://en.wikipedia.org/wiki/Smallpox?oldid=739249310
+field:Infectious disease (medical specialty)
+disease:Typhoid fever
+name:Blasius Kozenn
+deathdate:1871-05-29
+deathplace:Austria-Hungary
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Marcelo H. del Pilar
+deathdate:1896-07-04
+deathplace:Barcelona
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Graciano López Jaena
+deathdate:1896-01-20
+deathplace:Barcelona
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Marcelo H. del Pilar
+deathdate:1896-07-04
+deathplace:Barcelona
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Graciano López Jaena
+deathdate:1896-01-20
+deathplace:Barcelona
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tetanus
+name:John Sontag
+deathdate:1893-07-03
+deathplace:California
+wiki:http://en.wikipedia.org/wiki/Tetanus?oldid=738485422
+field:Infectious disease (medical specialty)
+disease:Suicide
+name:Louis Lingg
+deathdate:1887-11-10
+deathplace:Chicago
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Alcoholism
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Colorado
+wiki:http://en.wikipedia.org/wiki/Alcoholism?oldid=745037887
+field:Toxicology
+disease:Abscess
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Colorado
+wiki:http://en.wikipedia.org/wiki/Abscess?oldid=740542856
+field:General surgery
+disease:Alcoholism
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Colorado
+wiki:http://en.wikipedia.org/wiki/Alcoholism?oldid=745037887
+field:Psychiatry
+disease:Pneumonia
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Colorado
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Abscess
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Colorado
+wiki:http://en.wikipedia.org/wiki/Abscess?oldid=740542856
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Colorado
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Alcoholism
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Denver
+wiki:http://en.wikipedia.org/wiki/Alcoholism?oldid=745037887
+field:Toxicology
+disease:Abscess
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Denver
+wiki:http://en.wikipedia.org/wiki/Abscess?oldid=740542856
+field:General surgery
+disease:Alcoholism
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Denver
+wiki:http://en.wikipedia.org/wiki/Alcoholism?oldid=745037887
+field:Psychiatry
+disease:Pneumonia
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Denver
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Abscess
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Denver
+wiki:http://en.wikipedia.org/wiki/Abscess?oldid=740542856
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Anna Blythe Speas
+deathdate:1898-07-06
+deathplace:Denver
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Cholera
+name:Gabriel Richard
+deathdate:1832-09-13
+deathplace:Detroit
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Stroke
+name:Clara Schumann
+deathdate:1896-05-20
+deathplace:Frankfurt
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Stroke
+name:Clara Schumann
+deathdate:1896-05-20
+deathplace:German Empire
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Typhus
+name:Johannes Matthias Sperger
+deathdate:1812-05-13
+deathplace:Germany
+wiki:http://en.wikipedia.org/wiki/Typhus?oldid=743595830
+field:Infectious disease
+disease:Suicide
+name:Viktor Meyer
+deathdate:1897-08-08
+deathplace:Germany
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Breast cancer
+name:Julia Murdock Smith
+deathdate:1880-09-12
+deathplace:Illinois
+wiki:http://en.wikipedia.org/wiki/Breast_cancer?oldid=745219527
+field:Oncology
+disease:Colitis
+name:Arthur Forwood
+deathdate:1898-09-27
+deathplace:Liverpool
+wiki:http://en.wikipedia.org/wiki/Colitis?oldid=736329565
+field:Gastroenterology
+disease:Breast cancer
+name:Anne Isabella Byron, Baroness Byron
+deathdate:1860-05-16
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Breast_cancer?oldid=745219527
+field:Oncology
+disease:Heart failure
+name:Helene Demuth
+deathdate:1890-11-04
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Heart_failure?oldid=745234240
+field:Cardiology
+disease:Erysipelas
+name:Charles Lamb
+deathdate:1834-12-27
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Erysipelas?oldid=741910748
+field:Dermatology
+disease:Suicide
+name:Benjamin Haydon
+deathdate:1846-06-22
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Erysipelas
+name:Charles Lamb
+deathdate:1834-12-27
+deathplace:London
+wiki:http://en.wikipedia.org/wiki/Erysipelas?oldid=741910748
+field:Infectious disease (medical specialty)
+disease:Plague (disease)
+name:Charles Lock
+deathdate:1804-09-12
+deathplace:Malta
+wiki:http://en.wikipedia.org/wiki/Plague_(disease)?oldid=744710666
+field:Infectious disease (medical specialty)
+disease:Cholera
+name:Gabriel Richard
+deathdate:1832-09-13
+deathplace:Michigan
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Cholera
+name:George Bradshaw
+deathdate:1853-09-06
+deathplace:Norway
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Cholera
+name:George Bradshaw
+deathdate:1853-09-06
+deathplace:Oslo
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Suicide
+name:Nicolas Leblanc
+deathdate:1806-01-16
+deathplace:Paris
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Aneurysm
+name:William Backhouse Astor Jr.
+deathdate:1892-04-25
+deathplace:Paris
+wiki:http://en.wikipedia.org/wiki/Aneurysm?oldid=744695108
+field:Vascular surgery
+disease:Epileptic seizure
+name:Edward Kern
+deathdate:1863-11-25
+deathplace:Pennsylvania
+wiki:http://en.wikipedia.org/wiki/Epileptic_seizure?oldid=744047669
+field:Neurology
+disease:Pneumonia
+name:Thomas M. Carnegie
+deathdate:1886-10-19
+deathplace:Pennsylvania
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Typhoid fever
+name:George Washington Gale Ferris Jr.
+deathdate:1896-11-22
+deathplace:Pennsylvania
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Thomas M. Carnegie
+deathdate:1886-10-19
+deathplace:Pennsylvania
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Thomas M. Carnegie
+deathdate:1886-10-19
+deathplace:Pittsburgh
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Typhoid fever
+name:George Washington Gale Ferris Jr.
+deathdate:1896-11-22
+deathplace:Pittsburgh
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Thomas M. Carnegie
+deathdate:1886-10-19
+deathplace:Pittsburgh
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Nicolas Chopin
+deathdate:1844-05-03
+deathplace:Poland
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Nicolas Chopin
+deathdate:1844-05-03
+deathplace:Poland
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Stroke
+name:Cicero Hunt Lewis
+deathdate:1897-01-05
+deathplace:Portland, Oregon
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Tuberculosis
+name:Sara Forbes Bonetta
+deathdate:1880-08-15
+deathplace:Portugal
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Sara Forbes Bonetta
+deathdate:1880-08-15
+deathplace:Portugal
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Graciano López Jaena
+deathdate:1896-01-20
+deathplace:Spain
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Graciano López Jaena
+deathdate:1896-01-20
+deathplace:Spain
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Breast cancer
+name:Anna Maria Lenngren
+deathdate:1817-03-08
+deathplace:Stockholm
+wiki:http://en.wikipedia.org/wiki/Breast_cancer?oldid=745219527
+field:Oncology
+disease:Pneumonia
+name:Mary Reibey
+deathdate:1855-05-30
+deathplace:Sydney
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Mary Reibey
+deathdate:1855-05-30
+deathplace:Sydney
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Lead poisoning
+name:William Braine
+deathdate:1846-04-03
+deathplace:Beechey Island
+wiki:http://en.wikipedia.org/wiki/Lead_poisoning?oldid=744382276
+field:Toxicology
+disease:Tuberculosis
+name:Aloysius Bertrand
+deathdate:1841-04-29
+deathplace:First French Empire
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Aloysius Bertrand
+deathdate:1841-04-29
+deathplace:First French Empire
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Suicide
+name:Charles Gifkins
+deathdate:1897-01-31
+deathplace:Albuquerque, New Mexico
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Pneumonia
+name:Ogarita Booth Henderson
+deathdate:1892-04-12
+deathplace:Binghamton, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Ogarita Booth Henderson
+deathdate:1892-04-12
+deathplace:Binghamton, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Suicide
+name:Thomas Addison
+deathdate:1860-06-29
+deathplace:Brighton
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Jaundice
+name:Francis A. Mallison
+deathdate:1877-06-22
+deathplace:Brooklyn
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:Gastroenterology
+disease:Jaundice
+name:Francis A. Mallison
+deathdate:1877-06-22
+deathplace:Brooklyn
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:General surgery
+disease:Cirrhosis
+name:St. Julien Ravenel
+deathdate:1882-03-16
+deathplace:Charleston, South Carolina
+wiki:http://en.wikipedia.org/wiki/Cirrhosis?oldid=743806935
+field:Gastroenterology
+disease:Tuberculosis
+name:Aloysius Bertrand
+deathdate:1841-04-29
+deathplace:Dijon
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Aloysius Bertrand
+deathdate:1841-04-29
+deathplace:Dijon
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Myocardial infarction
+name:Minna Planer
+deathdate:1866-01-25
+deathplace:Dresden
+wiki:http://en.wikipedia.org/wiki/Myocardial_infarction?oldid=745020912
+field:Cardiology
+disease:Tetanus
+name:John Sontag
+deathdate:1893-07-03
+deathplace:Fresno, California
+wiki:http://en.wikipedia.org/wiki/Tetanus?oldid=738485422
+field:Infectious disease (medical specialty)
+disease:Cholera
+name:John Thomson Mason (1787–1850)
+deathdate:1850-04-17
+deathplace:Galveston, Texas
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Doc Holliday
+deathdate:1887-11-08
+deathplace:Glenwood Springs, Colorado
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Doc Holliday
+deathdate:1887-11-08
+deathplace:Glenwood Springs, Colorado
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Suicide
+name:Viktor Meyer
+deathdate:1897-08-08
+deathplace:Heidelberg
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Pneumonia
+name:Josephine Airey
+deathdate:1899-10-25
+deathplace:Helena, Montana
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Josephine Airey
+deathdate:1899-10-25
+deathplace:Helena, Montana
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Owen Brown (college founder)
+deathdate:1856-05-08
+deathplace:Hudson, Ohio
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Owen Brown (college founder)
+deathdate:1856-05-08
+deathplace:Hudson, Ohio
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Cancer
+name:Eli Lilly
+deathdate:1898-06-06
+deathplace:Indianapolis
+wiki:http://en.wikipedia.org/wiki/Cancer?oldid=744228426
+field:Oncology
+disease:Smallpox
+name:Charles Boarman (pioneer)
+deathdate:1880-11-22
+deathplace:Jackson, California
+wiki:http://en.wikipedia.org/wiki/Smallpox?oldid=739249310
+field:Infectious disease (medical specialty)
+disease:Peptic ulcer
+name:Sally Ward Lawrence Hunt Armstrong Downs
+deathdate:1896-07-08
+deathplace:Louisville, Kentucky
+wiki:http://en.wikipedia.org/wiki/Peptic_ulcer?oldid=737863988
+field:Gastroenterology
+disease:Peptic ulcer
+name:Sally Ward Lawrence Hunt Armstrong Downs
+deathdate:1896-07-08
+deathplace:Louisville, Kentucky
+wiki:http://en.wikipedia.org/wiki/Peptic_ulcer?oldid=737863988
+field:General surgery
+disease:Pneumonia
+name:Charles Wilkins Short
+deathdate:1863-03-07
+deathplace:Louisville, Kentucky
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Typhoid fever
+name:Charles Wilkins Short
+deathdate:1863-03-07
+deathplace:Louisville, Kentucky
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Charles Wilkins Short
+deathdate:1863-03-07
+deathplace:Louisville, Kentucky
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Stomach cancer
+name:John F. Dickson
+deathdate:1880-09-12
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Stomach_cancer?oldid=744098027
+field:Oncology
+disease:Pulmonary edema
+name:Elliott Fitch Shepard
+deathdate:1893-03-24
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pulmonary_edema?oldid=744581113
+field:Critical care medicine
+disease:Myocardial infarction
+name:William Henry Aspinwall
+deathdate:1875-01-18
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Myocardial_infarction?oldid=745020912
+field:Cardiology
+disease:Pulmonary edema
+name:Elliott Fitch Shepard
+deathdate:1893-03-24
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pulmonary_edema?oldid=744581113
+field:Cardiology
+disease:Pneumonia
+name:Charles Devlin
+deathdate:1881-02-01
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Blair Scribner
+deathdate:1879-01-21
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Galen Porter
+deathdate:1883-03-30
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Charles Devlin
+deathdate:1881-02-01
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:John Blair Scribner
+deathdate:1879-01-21
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Galen Porter
+deathdate:1883-03-30
+deathplace:Manhattan
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Stroke
+name:Chang and Eng Bunker
+deathdate:1874-01-17
+deathplace:Mount Airy, North Carolina
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Pneumonia
+name:Haller Nutt
+deathdate:1864-06-15
+deathplace:Natchez, Mississippi
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Haller Nutt
+deathdate:1864-06-15
+deathplace:Natchez, Mississippi
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Breast cancer
+name:Julia Murdock Smith
+deathdate:1880-09-12
+deathplace:Nauvoo, Illinois
+wiki:http://en.wikipedia.org/wiki/Breast_cancer?oldid=745219527
+field:Oncology
+disease:Tuberculosis
+name:William Wirt Winchester
+deathdate:1881-03-07
+deathplace:New Haven, Connecticut
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:William Wirt Winchester
+deathdate:1881-03-07
+deathplace:New Haven, Connecticut
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Epileptic seizure
+name:Edward Kern
+deathdate:1863-11-25
+deathplace:Philadelphia
+wiki:http://en.wikipedia.org/wiki/Epileptic_seizure?oldid=744047669
+field:Neurology
+disease:Appendicitis
+name:Peter Francisco
+deathdate:1831-01-16
+deathplace:Richmond, Virginia
+wiki:http://en.wikipedia.org/wiki/Appendicitis?oldid=745288008
+field:General surgery
+disease:Tuberculosis
+name:John Henry Manny
+deathdate:1856-01-31
+deathplace:Rockford, Illinois
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:John Henry Manny
+deathdate:1856-01-31
+deathplace:Rockford, Illinois
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Liver disease
+name:Samuel F. Butterworth
+deathdate:1875-05-06
+deathplace:San Francisco
+wiki:http://en.wikipedia.org/wiki/Liver_disease?oldid=738212162
+field:Gastroenterology
+disease:Status epilepticus
+name:Phineas Gage
+deathdate:1860-05-21
+deathplace:San Francisco
+wiki:http://en.wikipedia.org/wiki/Status_epilepticus?oldid=742143314
+field:Neurology
+disease:Pneumonia
+name:Eliza Emily Chappell Porter
+deathdate:1888-01-01
+deathplace:Santa Barbara, California
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Eliza Emily Chappell Porter
+deathdate:1888-01-01
+deathplace:Santa Barbara, California
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Shanawdithit
+deathdate:1829-06-06
+deathplace:St. John's, Newfoundland and Labrador
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Shanawdithit
+deathdate:1829-06-06
+deathplace:St. John's, Newfoundland and Labrador
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Typhoid fever
+name:Blasius Kozenn
+deathdate:1871-05-29
+deathplace:Vienna
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Nicolas Chopin
+deathdate:1844-05-03
+deathplace:Warsaw
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Nicolas Chopin
+deathdate:1844-05-03
+deathplace:Warsaw
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Suicide
+name:Marian Hooper Adams
+deathdate:1885-12-06
+deathplace:Washington, D.C.
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Pneumonia
+name:John Frederick Parker
+deathdate:1890-06-28
+deathplace:Washington, D.C.
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Typhoid fever
+name:William Wallace Lincoln
+deathdate:1862-02-20
+deathplace:Washington, D.C.
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Frederick Parker
+deathdate:1890-06-28
+deathplace:Washington, D.C.
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Rheumatism
+name:Charley Parkhurst
+deathdate:1879-12-18
+deathplace:Watsonville, California
+wiki:http://en.wikipedia.org/wiki/Rheumatism?oldid=744598313
+field:Rheumatology
+disease:Influenza
+name:Isaac D'Israeli
+deathdate:1848-01-19
+deathplace:Bradenham, Buckinghamshire
+wiki:http://en.wikipedia.org/wiki/Influenza?oldid=744866303
+field:Infectious disease (medical specialty)
+disease:Yellow fever
+name:Francisco Javier Muñiz
+deathdate:1871-04-08
+deathplace:Buenos Aires
+wiki:http://en.wikipedia.org/wiki/Yellow_fever?oldid=745252278
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Sara Forbes Bonetta
+deathdate:1880-08-15
+deathplace:Funchal
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Sara Forbes Bonetta
+deathdate:1880-08-15
+deathplace:Funchal
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Casimiro de Abreu
+deathdate:1860-10-18
+deathplace:Rio de Janeiro (state)
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Casimiro de Abreu
+deathdate:1860-10-18
+deathplace:Rio de Janeiro (state)
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:John King (explorer)
+deathdate:1872-01-15
+deathplace:St Kilda, Victoria
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:John King (explorer)
+deathdate:1872-01-15
+deathplace:St Kilda, Victoria
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:Edward Alfred Cowper
+deathdate:1893-05-09
+deathplace:Weybridge
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Edward Alfred Cowper
+deathdate:1893-05-09
+deathplace:Weybridge
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Erysipelas
+name:Charles Lamb
+deathdate:1834-12-27
+deathplace:Edmonton, London
+wiki:http://en.wikipedia.org/wiki/Erysipelas?oldid=741910748
+field:Dermatology
+disease:Erysipelas
+name:Charles Lamb
+deathdate:1834-12-27
+deathplace:Edmonton, London
+wiki:http://en.wikipedia.org/wiki/Erysipelas?oldid=741910748
+field:Infectious disease (medical specialty)
+disease:Heart failure
+name:Helene Demuth
+deathdate:1890-11-04
+deathplace:Upper Clapton
+wiki:http://en.wikipedia.org/wiki/Heart_failure?oldid=745234240
+field:Cardiology
+disease:Drowning
+name:Samuel Colver
+deathdate:1891-02-15
+deathplace:United States of America
+wiki:http://en.wikipedia.org/wiki/Drowning?oldid=745016369
+field:Critical care medicine
+disease:Pneumonia
+name:Haller Nutt
+deathdate:1864-06-15
+deathplace:Adams County, Mississippi
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Haller Nutt
+deathdate:1864-06-15
+deathplace:Adams County, Mississippi
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:John Wright (doctor)
+deathdate:1846-04-11
+deathplace:Aiken, South Carolina
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:John Wright (doctor)
+deathdate:1846-04-11
+deathplace:Aiken, South Carolina
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Suicide
+name:Edmund Ruffin
+deathdate:1865-06-18
+deathplace:Amelia County, Virginia
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Tuberculosis
+name:John Murrell (bandit)
+deathdate:1844-11-21
+deathplace:Bledsoe County, Tennessee
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:John Murrell (bandit)
+deathdate:1844-11-21
+deathplace:Bledsoe County, Tennessee
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:George Wilkins Kendall
+deathdate:1867-10-21
+deathplace:Boerne, Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:George Wilkins Kendall
+deathdate:1867-10-21
+deathplace:Boerne, Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Alexander Calvit
+deathdate:1836-01-07
+deathplace:Brazoria County, Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Alexander Calvit
+deathdate:1836-01-07
+deathplace:Brazoria County, Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Influenza
+name:Isaac D'Israeli
+deathdate:1848-01-19
+deathplace:Buckinghamshire
+wiki:http://en.wikipedia.org/wiki/Influenza?oldid=744866303
+field:Infectious disease (medical specialty)
+disease:Suicide
+name:Thomas Addison
+deathdate:1860-06-29
+deathplace:East Sussex
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Typhoid fever
+name:David Edward Jackson
+deathdate:1837-12-24
+deathplace:Henry County, Tennessee
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Influenza
+name:George D. Prentice
+deathdate:1870-01-22
+deathplace:Jefferson County, Kentucky
+wiki:http://en.wikipedia.org/wiki/Influenza?oldid=744866303
+field:Infectious disease (medical specialty)
+disease:Drowning
+name:Samuel Colver
+deathdate:1891-02-15
+deathplace:Klamath County, Oregon
+wiki:http://en.wikipedia.org/wiki/Drowning?oldid=745016369
+field:Critical care medicine
+disease:Pneumonia
+name:Bartlett S. Durham
+deathdate:1859-02-02
+deathplace:Orange County, North Carolina
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Bartlett S. Durham
+deathdate:1859-02-02
+deathplace:Orange County, North Carolina
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Typhoid fever
+name:David Edward Jackson
+deathdate:1837-12-24
+deathplace:Paris, Tennessee
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:John Murrell (bandit)
+deathdate:1844-11-21
+deathplace:Pikeville, Tennessee
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:John Murrell (bandit)
+deathdate:1844-11-21
+deathplace:Pikeville, Tennessee
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:Sterling C. Robertson
+deathdate:1842-03-04
+deathplace:Robertson County, Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Sterling C. Robertson
+deathdate:1842-03-04
+deathplace:Robertson County, Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Edward Alfred Cowper
+deathdate:1893-05-09
+deathplace:Surrey
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Edward Alfred Cowper
+deathdate:1893-05-09
+deathplace:Surrey
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Cholera
+name:John Thomson Mason (1787–1850)
+deathdate:1850-04-17
+deathplace:Texas
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Sterling C. Robertson
+deathdate:1842-03-04
+deathplace:Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Sterling C. Robertson
+deathdate:1842-03-04
+deathplace:Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Ottmar Mergenthaler
+deathdate:1899-10-28
+deathplace:Baltimore
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Ottmar Mergenthaler
+deathdate:1899-10-28
+deathplace:Baltimore
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Major trauma
+name:Philip Stanley Abbot
+deathdate:1896-08-03
+deathplace:Canada
+wiki:http://en.wikipedia.org/wiki/Major_trauma?oldid=743708320
+field:Emergency medicine
+disease:Lead poisoning
+name:William Braine
+deathdate:1846-04-03
+deathplace:Canada
+wiki:http://en.wikipedia.org/wiki/Lead_poisoning?oldid=744382276
+field:Toxicology
+disease:Suicide
+name:Nicolas Leblanc
+deathdate:1806-01-16
+deathplace:France
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Aneurysm
+name:William Backhouse Astor Jr.
+deathdate:1892-04-25
+deathplace:France
+wiki:http://en.wikipedia.org/wiki/Aneurysm?oldid=744695108
+field:Vascular surgery
+disease:Edema
+name:Rita Pérez de Moreno
+deathdate:1861-08-27
+deathplace:Jalisco
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Cardiology
+disease:Edema
+name:Rita Pérez de Moreno
+deathdate:1861-08-27
+deathplace:Jalisco
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Nephrology
+disease:Edema
+name:Rita Pérez de Moreno
+deathdate:1861-08-27
+deathplace:Mexico
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Cardiology
+disease:Edema
+name:Rita Pérez de Moreno
+deathdate:1861-08-27
+deathplace:Mexico
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Nephrology
+disease:Cholera
+name:Letitia MacTavish Hargrave
+deathdate:1854-09-18
+deathplace:Sault Ste. Marie, Ontario
+wiki:http://en.wikipedia.org/wiki/Cholera?oldid=744099351
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:François Péron
+deathdate:1810-12-14
+deathplace:Cérilly, Allier
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:François Péron
+deathdate:1810-12-14
+deathplace:Cérilly, Allier
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Malaria
+name:David Livingstone
+deathdate:1873-05-01
+deathplace:Livingstone Memorial
+wiki:http://en.wikipedia.org/wiki/Malaria?oldid=740143214
+field:Infectious disease (medical specialty)
+disease:Dysentery
+name:David Livingstone
+deathdate:1873-05-01
+deathplace:Livingstone Memorial
+wiki:http://en.wikipedia.org/wiki/Dysentery?oldid=743596181
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Mary Reibey
+deathdate:1855-05-30
+deathplace:Australia
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Mary Reibey
+deathdate:1855-05-30
+deathplace:Australia
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Casimiro de Abreu
+deathdate:1860-10-18
+deathplace:Empire of Brazil
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Casimiro de Abreu
+deathdate:1860-10-18
+deathplace:Empire of Brazil
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Typhus
+name:Johannes Matthias Sperger
+deathdate:1812-05-13
+deathplace:Ludwigslust
+wiki:http://en.wikipedia.org/wiki/Typhus?oldid=743595830
+field:Infectious disease
+disease:Tuberculosis
+name:Graciano López Jaena
+deathdate:1896-01-20
+deathplace:Madrid
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Graciano López Jaena
+deathdate:1896-01-20
+deathplace:Madrid
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:John Murray Forbes
+deathdate:1898-10-12
+deathplace:Milton, Massachusetts
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Murray Forbes
+deathdate:1898-10-12
+deathplace:Milton, Massachusetts
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Haller Nutt
+deathdate:1864-06-15
+deathplace:Mississippi
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Haller Nutt
+deathdate:1864-06-15
+deathplace:Mississippi
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Childbirth
+name:Julia Dean (stage actress)
+deathdate:1868-03-06
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Childbirth?oldid=743917418
+field:Obstetrics
+disease:Pulmonary edema
+name:Elliott Fitch Shepard
+deathdate:1893-03-24
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pulmonary_edema?oldid=744581113
+field:Critical care medicine
+disease:Pulmonary edema
+name:Elliott Fitch Shepard
+deathdate:1893-03-24
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pulmonary_edema?oldid=744581113
+field:Cardiology
+disease:Childbirth
+name:Julia Dean (stage actress)
+deathdate:1868-03-06
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Childbirth?oldid=743917418
+field:Midwifery
+disease:Meningitis
+name:Pauline Musters
+deathdate:1895-03-01
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Neurology
+disease:Stroke
+name:Robert Bowne Minturn, Jr.
+deathdate:1889-12-15
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Tuberculosis
+name:Francis J. Banfield
+deathdate:1883-03-04
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:John Decker (fire chief)
+deathdate:1892-11-18
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Pauline Musters
+deathdate:1895-03-01
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Meningitis
+name:Pauline Musters
+deathdate:1895-03-01
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Meningitis?oldid=744991659
+field:Infectious disease (medical specialty)
+disease:Typhoid fever
+name:Louis H. Galbreath
+deathdate:1899-08-15
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Typhoid_fever?oldid=745253220
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Henry B Bolster
+deathdate:1859-07-21
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Rheumatism
+name:John H. McCullagh
+deathdate:1893-03-06
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Rheumatism?oldid=744598313
+field:Rheumatology
+disease:Tuberculosis
+name:Francis J. Banfield
+deathdate:1883-03-04
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:John Decker (fire chief)
+deathdate:1892-11-18
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Pauline Musters
+deathdate:1895-03-01
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Henry B Bolster
+deathdate:1859-07-21
+deathplace:New York City
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:Mary Reibey
+deathdate:1855-05-30
+deathplace:Newtown, New South Wales
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Mary Reibey
+deathdate:1855-05-30
+deathplace:Newtown, New South Wales
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Lead poisoning
+name:William Braine
+deathdate:1846-04-03
+deathplace:Nunavut
+wiki:http://en.wikipedia.org/wiki/Lead_poisoning?oldid=744382276
+field:Toxicology
+disease:Drowning
+name:Samuel Colver
+deathdate:1891-02-15
+deathplace:Oregon
+wiki:http://en.wikipedia.org/wiki/Drowning?oldid=745016369
+field:Critical care medicine
+disease:Stroke
+name:Konstantin Bulgakov
+deathdate:1835-10-29
+deathplace:Saint Petersburg
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Stroke
+name:Konstantin Bulgakov
+deathdate:1835-11-10
+deathplace:Saint Petersburg
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Edema
+name:Rita Pérez de Moreno
+deathdate:1861-08-27
+deathplace:San Juan de los Lagos
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Cardiology
+disease:Edema
+name:Rita Pérez de Moreno
+deathdate:1861-08-27
+deathplace:San Juan de los Lagos
+wiki:http://en.wikipedia.org/wiki/Edema?oldid=744578839
+field:Nephrology
+disease:Hypothermia
+name:Lucía Zárate
+deathdate:1890-01-15
+deathplace:Sierra Nevada (U.S.)
+wiki:http://en.wikipedia.org/wiki/Hypothermia?oldid=744244327
+field:Critical care medicine
+disease:Stroke
+name:J. P. Morgan Jr.
+deathdate:1867-09-07
+deathplace:Boca Grande, Florida
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Myocardial infarction
+name:Minna Planer
+deathdate:1866-01-25
+deathplace:Kingdom of Saxony
+wiki:http://en.wikipedia.org/wiki/Myocardial_infarction?oldid=745020912
+field:Cardiology
+disease:Drowning
+name:Jane Whiteside
+deathdate:1875-01-17
+deathplace:Mackenzie Basin
+wiki:http://en.wikipedia.org/wiki/Drowning?oldid=745016369
+field:Critical care medicine
+disease:Tuberculosis
+name:Monroe Edwards
+deathdate:1847-01-27
+deathplace:Sing Sing
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Monroe Edwards
+deathdate:1847-01-27
+deathplace:Sing Sing
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Casimiro de Abreu
+deathdate:1860-10-18
+deathplace:Nova Friburgo
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Casimiro de Abreu
+deathdate:1860-10-18
+deathplace:Nova Friburgo
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Pneumonia
+name:Alexander Calvit
+deathdate:1836-01-07
+deathplace:Mexican Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Alexander Calvit
+deathdate:1836-01-07
+deathplace:Mexican Texas
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Samuel Gardner Drake
+deathdate:1875-06-14
+deathplace:Boston, Massachusetts
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Samuel Gardner Drake
+deathdate:1875-06-14
+deathplace:Boston, Massachusetts
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Stomach cancer
+name:John F. Dickson
+deathdate:1880-09-12
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Stomach_cancer?oldid=744098027
+field:Oncology
+disease:Pneumonia
+name:Francis C. Speight
+deathdate:1877-03-20
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Charles Devlin
+deathdate:1881-02-01
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Galen Porter
+deathdate:1883-03-30
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Francis C. Speight
+deathdate:1877-03-20
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Charles Devlin
+deathdate:1881-02-01
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pneumonia
+name:Galen Porter
+deathdate:1883-03-30
+deathplace:Manhattan, New York
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Rheumatism
+name:John H. McCullagh
+deathdate:1893-03-06
+deathplace:New York City, New York
+wiki:http://en.wikipedia.org/wiki/Rheumatism?oldid=744598313
+field:Rheumatology
+disease:Jaundice
+name:Francis A. Mallison
+deathdate:1877-06-22
+deathplace:Brooklyn, New York
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:Gastroenterology
+disease:Jaundice
+name:Francis A. Mallison
+deathdate:1877-06-22
+deathplace:Brooklyn, New York
+wiki:http://en.wikipedia.org/wiki/Jaundice?oldid=744851036
+field:General surgery
+disease:Pneumonia
+name:Samuel Gardner Drake
+deathdate:1875-06-14
+deathplace:Boston
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Samuel Gardner Drake
+deathdate:1875-06-14
+deathplace:Boston
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Pulmonary edema
+name:Elliott Fitch Shepard
+deathdate:1893-03-24
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Pulmonary_edema?oldid=744581113
+field:Critical care medicine
+disease:Pulmonary edema
+name:Elliott Fitch Shepard
+deathdate:1893-03-24
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Pulmonary_edema?oldid=744581113
+field:Cardiology
+disease:Stroke
+name:Robert Bowne Minturn, Jr.
+deathdate:1889-12-15
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Stroke?oldid=744866270
+field:Neurology
+disease:Pneumonia
+name:Kit Burns
+deathdate:1870-12-19
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Francis J. Banfield
+deathdate:1883-03-04
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Kit Burns
+deathdate:1870-12-19
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Francis J. Banfield
+deathdate:1883-03-04
+deathplace:New York (state)
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Nicolas Chopin
+deathdate:1844-05-03
+deathplace:Russian Empire
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Nicolas Chopin
+deathdate:1844-05-03
+deathplace:Russian Empire
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Epileptic seizure
+name:Edward Kern
+deathdate:1863-11-25
+deathplace:Philadelphia, Pennsylvania
+wiki:http://en.wikipedia.org/wiki/Epileptic_seizure?oldid=744047669
+field:Neurology
+disease:Pneumonia
+name:Owen Brown (college founder)
+deathdate:1856-05-08
+deathplace:U.S.A
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Infectious disease (medical specialty)
+disease:Pneumonia
+name:Owen Brown (college founder)
+deathdate:1856-05-08
+deathplace:U.S.A
+wiki:http://en.wikipedia.org/wiki/Pneumonia?oldid=739440823
+field:Pulmonology
+disease:Tuberculosis
+name:Marcelo H. del Pilar
+deathdate:1896-07-04
+deathplace:Espana
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Marcelo H. del Pilar
+deathdate:1896-07-04
+deathplace:Espana
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Tuberculosis
+name:Michella Jougousa Gununusa
+deathdate:1834-07-22
+deathplace:Lyon
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Michella Jougousa Gununusa
+deathdate:1834-07-22
+deathplace:Lyon
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Suicide
+name:Nicolas Leblanc
+deathdate:1806-01-16
+deathplace:Saint-Denis, Seine-Saint-Denis
+wiki:http://en.wikipedia.org/wiki/Suicide?oldid=741614203
+field:Psychiatry
+disease:Cancer
+name:Eli Lilly
+deathdate:1898-06-06
+deathplace:Indianapolis, Indiana
+wiki:http://en.wikipedia.org/wiki/Cancer?oldid=744228426
+field:Oncology
+disease:Nephritis
+name:Lyman S. Ayres
+deathdate:1896-05-07
+deathplace:Indianapolis, Indiana
+wiki:http://en.wikipedia.org/wiki/Nephritis?oldid=739913515
+field:Nephrology
+disease:Tuberculosis
+name:Michella Jougousa Gununusa
+deathdate:1834-07-22
+deathplace:Lyon, France
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Infectious disease (medical specialty)
+disease:Tuberculosis
+name:Michella Jougousa Gununusa
+deathdate:1834-07-22
+deathplace:Lyon, France
+wiki:http://en.wikipedia.org/wiki/Tuberculosis?oldid=744700621
+field:Pulmonology
+disease:Erysipelas
+name:Charles Lamb
+deathdate:1834-12-27
+deathplace:Edmonton (London)
+wiki:http://en.wikipedia.org/wiki/Erysipelas?oldid=741910748
+field:Dermatology
+disease:Erysipelas
+name:Charles Lamb
+deathdate:1834-12-27
+deathplace:Edmonton (London)
+wiki:http://en.wikipedia.org/wiki/Erysipelas?oldid=741910748
+field:Infectious disease (medical specialty)
